@@ -22,5 +22,5 @@ function calcular() {
 
 // INFO:Função para limpar o visor
 document.getElementById("C").onclick = function() {
-    vizor.value = ''; // INFO:Limpa o visor
+    vizor.value = '0'; // INFO:Limpa o visor colocando um 0
 };
