@@ -70,8 +70,8 @@ Abra um Pull Request.<br/>
 Distribuído sob a Licença MIT. Veja LICENSE para mais informações.
 
 <!-- CONTACT -->
-📫 Contato
-Seu Nome - @gabriel.walendolf - gabriel.g.walendolf@gmail.com
+📫 Contato<br/>
+Gabriel Walendolf - @gabriel.walendolf - gabriel.g.walendolf@gmail.com
 
 Link do Projeto: https://github.com/GabrielWalendolf/CalculadoraGamer
 
